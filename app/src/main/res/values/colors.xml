@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="appBackgroundColor">#CDCBCB</color>
+    <color name="storyBackgroundColor">#FFFFFF</color>
+    <color name="storyTitleColor">#000000</color>
+    <color name="ic_launcher_background">#00A2E8</color>
+</resources>
