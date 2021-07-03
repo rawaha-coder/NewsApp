@@ -1,6 +1,6 @@
 # Android Basics By Google - MENA Nanodegree Program
 
-## Project: NewsApp.
+## Project: NewsApp
 Final Code.
 
 ### Project Overview
